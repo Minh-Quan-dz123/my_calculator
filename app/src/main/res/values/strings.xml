@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testthu</string>
+    <string name="result">%1$s%2$s%3$s</string>
+    <string name="result2">%s%s</string>
+</resources>
